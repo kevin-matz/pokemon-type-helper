@@ -1,0 +1,177 @@
+[
+    {
+        "id": 35,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 36,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 39,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 40,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 81,
+        "type1": "electric",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 1
+    },
+    {
+        "id": 82,
+        "type1": "electric",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 1
+    },
+    {
+        "id": 122,
+        "type1": "psychic",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 173,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 174,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 175,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 176,
+        "type1": "normal",
+        "type2": "flying",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 183,
+        "type1": "water",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 184,
+        "type1": "water",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 209,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 210,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 280,
+        "type1": "psychic",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 281,
+        "type1": "psychic",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 282,
+        "type1": "psychic",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 298,
+        "type1": "normal",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 303,
+        "type1": "steel",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 439,
+        "type1": "psychic",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 468,
+        "type1": "normal",
+        "type2": "flying",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 479,
+        "type1": "electric",
+        "type2": "ghost",
+        "from_gen": 4,
+        "until_gen": 4
+    },
+    {
+        "id": 546,
+        "type1": "grass",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    },
+    {
+        "id": 547,
+        "type1": "grass",
+        "type2": "none",
+        "from_gen": 1,
+        "until_gen": 5
+    }
+]
